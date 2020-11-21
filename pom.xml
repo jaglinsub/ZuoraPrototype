@@ -15,7 +15,7 @@
 	<description>Prototype project for Zuora</description>
 
 	<properties>
-		<java.version>15</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
