@@ -12,7 +12,7 @@
 	<artifactId>prototype</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Zuora Prototype</name>
-	<description>Prototype project for Zuora</description>
+	<description>Prototype project for Zuora </description>
 
 	<properties>
 		<java.version>8</java.version>
